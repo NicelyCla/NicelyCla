@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @NicelyCla.
-- 👀 I’m interested in computer science and electronics.
-- 🌱 I’m currently learning computer engineering.
+I’m @NicelyCla, I'm a computer engineering student. I’m interested in computer science and electronics. I write as I eat.
 - 📫 How to reach me: praticoclaudio@gmail.com
 
 <!---
