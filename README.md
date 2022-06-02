@@ -3,7 +3,7 @@
 # About me
 I'm an engineering student at the University of Parma.
 - 📫 How to reach me: praticoclaudio@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: ...
 
 ## 💻 Skills and Experiences:
 
