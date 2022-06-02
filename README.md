@@ -29,17 +29,17 @@ I'm a IT engineering student at the University of Parma.
 <i class="programming lang-python"></i>
 <i class="programming lang-kotlyn"></i>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iamvincenzo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vincenzo-fraello/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamvincenzofraello/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://iamvincenzo.github.io/WebSite/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nicelycla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vincenzo-fraello/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nicelyclafraello/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nicelycla.github.io/WebSite/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvincenzo&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicelycla&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo&theme=shades-of-purple&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicelycla&theme=shades-of-purple&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/iamvincenzo)  
+![Profile views](https://gpvc.arturio.dev/nicelycla)  
 
 
 <!--
-**iamvincenzo/iamvincenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nicelycla/nicelycla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
