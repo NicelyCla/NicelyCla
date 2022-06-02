@@ -1,4 +1,4 @@
-# I’m @NicelyCla, I'm a computer engineering student.
+# My names is Claudio
 
 # About me
 I'm an engineering student at the University of Parma.
