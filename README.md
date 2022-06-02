@@ -15,7 +15,7 @@ I'm a computer engineering student at the University of Parma.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicelycla&theme=shades-of-purple&show_icons=true)
 ![Profile views](https://gpvc.arturio.dev/nicelycla)
 
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=nicelycla&theme=shades-of-purple](https://github-readme-stats.vercel.app/api/top-langs/?username=NicelyCla&langs_count=6&theme=gruvbox&layout=compact&hide_border=true))](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicelyCla&langs_count=6&theme=gruvbox&layout=compact&hide_border=true)
 
 <!--
 **nicelycla/nicelycla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
