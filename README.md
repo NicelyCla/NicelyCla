@@ -15,7 +15,7 @@ I'm a computer engineering student at the University of Parma... and I try to hi
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=NicelyCla&show_icons=true&theme=gruvbox&layout=compact&hide_border=true)](https://github.com/NicelyCla)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicelyCla&langs_count=6&theme=monokai&layout=compact&hide_border=true)](https://github.com/NicelyCla)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicelyCla&langs_count=6&theme=monokai&layout=compact&hide_border=tru&custom_title=Most%20Used%20Languages%20(used%20badly))](https://github.com/NicelyCla)
 [![Profile views](https://gpvc.arturio.dev/nicelycla)](https://github.com/NicelyCla)
 
 <!--
