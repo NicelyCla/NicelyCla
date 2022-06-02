@@ -12,7 +12,7 @@ I'm a computer engineering student at the University of Parma.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nicelycla.github.io/WebSite/)  
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicelyCla&langs_count=6&theme=gruvbox&layout=compact&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NicelyCla&show_icons=true&theme=gruvbox&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicelyCla&langs_count=6&theme=gruvbox&layout=compact&hide_border=true)
 
 ![Profile views](https://gpvc.arturio.dev/nicelycla)
