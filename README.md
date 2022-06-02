@@ -1,7 +1,7 @@
 # About me
 I'm a computer engineering student at the University of Parma.
 - 📫 How to reach me: praticoclaudio@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: my depression is funny
 
 ## 💻 Skills(AHAHAH) and Experiences:
 
