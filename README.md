@@ -9,18 +9,6 @@ I'm a IT engineering student at the University of Parma.
 - ⚡ Fun fact: Bazinga
 
 ## 💻 Skills and Experiences:
-- Python 
-- JAVA 
-- C
-- C++
-- Solidity
-- REACT
-- JS
-- JQuery
-- PHP
-- HTML
-- CSS
-- Bootstrap
 
 <i class="programming lang-ruby"></i>
 <i class="programming lang-javascript"></i>
