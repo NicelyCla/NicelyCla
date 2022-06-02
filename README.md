@@ -1,12 +1,8 @@
-# I’m @NicelyCla, I'm a computer engineering student. I’m interested in computer science and electronics.
+# I’m @NicelyCla, I'm a computer engineering student.
 
 # About me
-I'm a IT engineering student at the University of Parma.
-
-- 🔭 I’m currently working on AI projects 
-- 🌱 I’m currently learning python for data analysis and frameworks for Big Data 
-- 📫 How to reach me: vincenzo.fraello@outlook.it 
-- ⚡ Fun fact: Bazinga
+I'm an engineering student at the University of Parma.
+- 📫 How to reach me: praticoclaudio@gmail.com
 
 ## 💻 Skills and Experiences:
 
@@ -17,7 +13,10 @@ I'm a IT engineering student at the University of Parma.
 <i class="programming lang-python"></i>
 <i class="programming lang-kotlyn"></i>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nicelycla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vincenzo-fraello/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nicelyclafraello/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nicelycla.github.io/WebSite/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nicelycla) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nicelycla.github.io/WebSite/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicelycla&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
