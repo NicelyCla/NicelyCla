@@ -13,7 +13,6 @@ I'm an engineering student at the University of Parma.
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicelycla&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicelycla&theme=shades-of-purple&show_icons=true)  
 ![Profile views](https://gpvc.arturio.dev/nicelycla)  
 
