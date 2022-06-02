@@ -1,5 +1,5 @@
 # About me
-I'm an engineering student at the University of Parma.
+I'm a computer engineering student at the University of Parma.
 - 📫 How to reach me: praticoclaudio@gmail.com
 - ⚡ Fun fact: ...
 
