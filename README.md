@@ -1,5 +1,3 @@
-# My names is Claudio
-
 # About me
 I'm an engineering student at the University of Parma.
 - 📫 How to reach me: praticoclaudio@gmail.com
