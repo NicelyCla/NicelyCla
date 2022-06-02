@@ -1,5 +1,5 @@
 # About mə
-I'm a computer engineering student at the University of Parma.
+I'm a computer engineering student at the University of Parma... and I try to hide my idiocy
 - 📫 How to reach me: praticoclaudio@gmail.com
 - ⚡ Fun fact: my depression is fun
 
