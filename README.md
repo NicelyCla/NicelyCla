@@ -3,7 +3,7 @@ I'm a computer engineering student at the University of Parma.
 - 📫 How to reach me: praticoclaudio@gmail.com
 - ⚡ Fun fact: ...
 
-## 💻 Skills and Experiences:
+## 💻 Skills(AHAHAH) and Experiences:
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nicelycla) 
