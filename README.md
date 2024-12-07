@@ -1,5 +1,5 @@
 # About mə
-Penetration Tester and Deep Learning enthusiast. Currently master's student in computer engineering, University of Parma
+Cybersecurity and Deep Learning enthusiast. Currently. Currently master's student in computer engineering, University of Parma
 - 📫 How to reach me: praticoclaudio@gmail.com
 - ⚡ Fun fact: my depression is fun
 
